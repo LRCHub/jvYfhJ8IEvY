@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "永遠色アーチ",
+  "base_artist": "Team.Sol",
+  "createdAt": "2026-04-05T10:00:18.812567Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠色アーチ",
+      "artist": "Team.Sol",
+      "has_synced": false,
+      "path": "select/pl_01_永遠色アーチ_Team.Sol.txt"
+    }
+  ]
+}
